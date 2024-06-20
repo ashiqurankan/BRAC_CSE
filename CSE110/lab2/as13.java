@@ -11,7 +11,7 @@ public class as13{
         double velocityMetersPerSecond = (double) distance / totalSeconds;
 
         double velocityKmph = velocityMetersPerSecond * 3.6; // convert meters per second to km per hour
-							     //
+							     
         double velocityMph = velocityMetersPerSecond * 2.0 / 1.60934; // convert meters per second to miles per hour
 												      
 								      
